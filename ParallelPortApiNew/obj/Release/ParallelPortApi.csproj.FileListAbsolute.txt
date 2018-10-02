@@ -1,0 +1,8 @@
+E:\Cosas LPT\DiscoveryProxy\ParallelPortApiNew\bin\Release\SenApi.SensorInterfaces.ParallelPort.dll
+E:\Cosas LPT\DiscoveryProxy\ParallelPortApiNew\bin\Release\SenApi.SensorInterfaces.ParallelPort.pdb
+E:\Cosas LPT\DiscoveryProxy\ParallelPortApiNew\obj\Release\SenApi.SensorInterfaces.ParallelPort.dll
+E:\Cosas LPT\DiscoveryProxy\ParallelPortApiNew\obj\Release\SenApi.SensorInterfaces.ParallelPort.pdb
+E:\Cosas LPT\VIGIA_MSSQ\ParallelPortApiNew\bin\Release\SenApi.SensorInterfaces.ParallelPort.dll
+E:\Cosas LPT\VIGIA_MSSQ\ParallelPortApiNew\bin\Release\SenApi.SensorInterfaces.ParallelPort.pdb
+E:\Cosas LPT\VIGIA_MSSQ\ParallelPortApiNew\obj\Release\SenApi.SensorInterfaces.ParallelPort.dll
+E:\Cosas LPT\VIGIA_MSSQ\ParallelPortApiNew\obj\Release\SenApi.SensorInterfaces.ParallelPort.pdb

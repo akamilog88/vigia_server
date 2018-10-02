@@ -1,0 +1,4 @@
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\ParellelPortContractNew\bin\Debug\SenApi.ServicesContract.ParallelPort.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\ParellelPortContractNew\bin\Debug\SenApi.ServicesContract.ParallelPort.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\ParellelPortContractNew\obj\Debug\SenApi.ServicesContract.ParallelPort.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\ParellelPortContractNew\obj\Debug\SenApi.ServicesContract.ParallelPort.pdb

@@ -1,0 +1,14 @@
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\AireConsole\bin\Debug\AireConsole.exe.config
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\AireConsole\bin\Debug\AireConsole.exe
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\AireConsole\bin\Debug\AireConsole.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\AireConsole\bin\Debug\SenApi.Services.PubSubServices.EventReciverService.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\AireConsole\bin\Debug\SenApi.ServicesContract.ParallelPort.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\AireConsole\bin\Debug\SenApi.ServicesContract.PubSubContract.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\AireConsole\bin\Debug\SenApi.Services.PubSubServices.EventReciverService.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\AireConsole\bin\Debug\SenApi.ServicesContract.ParallelPort.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\AireConsole\bin\Debug\SenApi.ServicesContract.PubSubContract.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\AireConsole\obj\Debug\AireConsole.csprojResolveAssemblyReference.cache
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\AireConsole\obj\Debug\AireConsole.exe
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\AireConsole\obj\Debug\AireConsole.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\AireConsole\bin\Debug\BaseSensorsContract.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\AireConsole\bin\Debug\BaseSensorsContract.pdb

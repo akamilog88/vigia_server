@@ -1,0 +1,14 @@
+E:\Cosas LPT\DiscoveryProxy\ParellelPortContractNew\bin\Release\SenApi.ServicesContract.ParallelPort.dll
+E:\Cosas LPT\DiscoveryProxy\ParellelPortContractNew\bin\Release\SenApi.ServicesContract.ParallelPort.pdb
+E:\Cosas LPT\DiscoveryProxy\ParellelPortContractNew\bin\Release\BaseSensorsContract.dll
+E:\Cosas LPT\DiscoveryProxy\ParellelPortContractNew\bin\Release\BaseSensorsContract.pdb
+E:\Cosas LPT\DiscoveryProxy\ParellelPortContractNew\obj\Release\ParellelPortContract.csprojResolveAssemblyReference.cache
+E:\Cosas LPT\DiscoveryProxy\ParellelPortContractNew\obj\Release\SenApi.ServicesContract.ParallelPort.dll
+E:\Cosas LPT\DiscoveryProxy\ParellelPortContractNew\obj\Release\SenApi.ServicesContract.ParallelPort.pdb
+E:\Cosas LPT\VIGIA_MSSQ\ParellelPortContractNew\bin\Release\SenApi.ServicesContract.ParallelPort.dll
+E:\Cosas LPT\VIGIA_MSSQ\ParellelPortContractNew\bin\Release\SenApi.ServicesContract.ParallelPort.pdb
+E:\Cosas LPT\VIGIA_MSSQ\ParellelPortContractNew\bin\Release\BaseSensorsContract.dll
+E:\Cosas LPT\VIGIA_MSSQ\ParellelPortContractNew\bin\Release\BaseSensorsContract.pdb
+E:\Cosas LPT\VIGIA_MSSQ\ParellelPortContractNew\obj\Release\ParellelPortContract.csprojResolveAssemblyReference.cache
+E:\Cosas LPT\VIGIA_MSSQ\ParellelPortContractNew\obj\Release\SenApi.ServicesContract.ParallelPort.dll
+E:\Cosas LPT\VIGIA_MSSQ\ParellelPortContractNew\obj\Release\SenApi.ServicesContract.ParallelPort.pdb

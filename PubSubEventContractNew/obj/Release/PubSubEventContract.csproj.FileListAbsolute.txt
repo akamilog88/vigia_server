@@ -1,0 +1,8 @@
+E:\Cosas LPT\DiscoveryProxy\PubSubEventContractNew\bin\Release\SenApi.ServicesContract.PubSubContract.dll
+E:\Cosas LPT\DiscoveryProxy\PubSubEventContractNew\bin\Release\SenApi.ServicesContract.PubSubContract.pdb
+E:\Cosas LPT\DiscoveryProxy\PubSubEventContractNew\obj\Release\SenApi.ServicesContract.PubSubContract.dll
+E:\Cosas LPT\DiscoveryProxy\PubSubEventContractNew\obj\Release\SenApi.ServicesContract.PubSubContract.pdb
+E:\Cosas LPT\VIGIA_MSSQ\PubSubEventContractNew\bin\Release\SenApi.ServicesContract.PubSubContract.dll
+E:\Cosas LPT\VIGIA_MSSQ\PubSubEventContractNew\bin\Release\SenApi.ServicesContract.PubSubContract.pdb
+E:\Cosas LPT\VIGIA_MSSQ\PubSubEventContractNew\obj\Release\SenApi.ServicesContract.PubSubContract.dll
+E:\Cosas LPT\VIGIA_MSSQ\PubSubEventContractNew\obj\Release\SenApi.ServicesContract.PubSubContract.pdb

@@ -1,0 +1,46 @@
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\obj\Release\WDTMFDetectorService.csprojResolveAssemblyReference.cache
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\obj\Release\DTMF_Detector_Service.ProjectInstaller.resources
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\obj\Release\WDTMFDetectorService.csproj.GenerateResource.Cache
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Release\DTMF Detector Service.exe.config
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Release\DTMF Detector Service.exe.manifest
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Release\DTMF Detector Service.application
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Release\DTMF Detector Service.exe
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Release\DTMF Detector Service.pdb
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Release\BaseSensorsContract.dll
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Release\DTMF Detector.exe
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Release\SenApi.ServicesContract.PubSubContract.dll
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Release\WCFDTMFDetectorService.dll
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Release\NAudio.dll
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Release\BaseSensorsContract.pdb
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Release\DTMF Detector.pdb
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Release\SenApi.ServicesContract.PubSubContract.pdb
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Release\WCFDTMFDetectorService.pdb
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Release\NAudio.pdb
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Release\NAudio.xml
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\obj\Release\DTMF Detector Service.exe.manifest
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\obj\Release\DTMF Detector Service.application
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\obj\Release\DTMF Detector Service.exe
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\obj\Release\DTMF Detector Service.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector Service\bin\Release\DTMF Detector Service.exe.config
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector Service\bin\Release\DTMF Detector Service.exe.manifest
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector Service\bin\Release\DTMF Detector Service.application
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector Service\bin\Release\DTMF Detector Service.exe
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector Service\bin\Release\DTMF Detector Service.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector Service\bin\Release\BaseSensorsContract.dll
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector Service\bin\Release\DTMF Detector.exe
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector Service\bin\Release\SenApi.ServicesContract.PubSubContract.dll
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector Service\bin\Release\WCFDTMFDetectorService.dll
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector Service\bin\Release\NAudio.dll
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector Service\bin\Release\BaseSensorsContract.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector Service\bin\Release\DTMF Detector.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector Service\bin\Release\SenApi.ServicesContract.PubSubContract.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector Service\bin\Release\WCFDTMFDetectorService.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector Service\bin\Release\NAudio.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector Service\bin\Release\NAudio.xml
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector Service\obj\Release\WDTMFDetectorService.csprojResolveAssemblyReference.cache
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector Service\obj\Release\DTMF_Detector_Service.ProjectInstaller.resources
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector Service\obj\Release\WDTMFDetectorService.csproj.GenerateResource.Cache
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector Service\obj\Release\DTMF Detector Service.exe.manifest
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector Service\obj\Release\DTMF Detector Service.application
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector Service\obj\Release\DTMF Detector Service.exe
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector Service\obj\Release\DTMF Detector Service.pdb

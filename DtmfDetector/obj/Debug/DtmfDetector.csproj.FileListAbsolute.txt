@@ -1,0 +1,52 @@
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\DtmfDetector.exe.config
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\DtmfDetector.exe
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\DtmfDetector.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\DTMF Detector.exe
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\SenApi.ServicesContract.PubSubContract.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\NAudio.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\DTMF Detector.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\SenApi.ServicesContract.PubSubContract.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\NAudio.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\NAudio.xml
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\obj\Debug\DtmfDetector.csprojResolveAssemblyReference.cache
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\obj\Debug\DtmfDetector.exe
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\obj\Debug\DtmfDetector.pdb
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\DtmfDetector.exe.config
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\DtmfDetector.exe
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\DtmfDetector.pdb
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\DTMF Detector.exe
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\SenApi.ServicesContract.PubSubContract.dll
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\NAudio.dll
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\DTMF Detector.pdb
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\SenApi.ServicesContract.PubSubContract.pdb
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\NAudio.pdb
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\NAudio.xml
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\obj\Debug\DtmfDetector.csprojResolveAssemblyReference.cache
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\obj\Debug\DtmfDetector.exe
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfDetector\obj\Debug\DtmfDetector.pdb
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\DtmfDetector.exe.config
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\DtmfDetector.exe
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\DtmfDetector.pdb
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\DTMF Detector.exe
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\SenApi.ServicesContract.PubSubContract.dll
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\NAudio.dll
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\DTMF Detector.pdb
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\SenApi.ServicesContract.PubSubContract.pdb
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\NAudio.pdb
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Debug\NAudio.xml
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\obj\Debug\DtmfDetector.csprojResolveAssemblyReference.cache
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\obj\Debug\DtmfDetector.exe
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\obj\Debug\DtmfDetector.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\bin\Debug\DtmfDetector.exe.config
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\bin\Debug\DtmfDetector.exe
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\bin\Debug\DtmfDetector.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\bin\Debug\DTMF Detector.exe
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\bin\Debug\SenApi.ServicesContract.PubSubContract.dll
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\bin\Debug\NAudio.dll
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\bin\Debug\DTMF Detector.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\bin\Debug\SenApi.ServicesContract.PubSubContract.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\bin\Debug\NAudio.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\bin\Debug\NAudio.xml
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\obj\Debug\DtmfDetector.csprojResolveAssemblyReference.cache
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\obj\Debug\DtmfDetector.exe
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\obj\Debug\DtmfDetector.pdb

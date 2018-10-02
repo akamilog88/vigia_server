@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<configuration>
+  <appSettings>
+    <!--Tiempo en minutos al cual se realiza el cambio de estado-->
+    <add key="period" value="5"/>
+    <add key="minSpan" value="1"/>
+    <add key="service_address" value="net.tcp://localhost:9000/ReciverClientService/"/>
+  </appSettings>
+  <system.serviceModel>
+    <services>
+      <service name="SenApi.Services.PubSubServices.EventReciverService">
+        <endpoint address="net.tcp://localhost:9000/ReciverClientService/" binding="netTcpBinding" contract="SenApi.ServicesContract.PubSubContract.IEventReciver" bindingConfiguration="tcp_Unsecured"/>
+        <host>
+          <baseAddresses>
+            <add baseAddress="net.tcp://localhost:9000/"/>
+          </baseAddresses>
+        </host>
+      </service>
+    </services>
+    <bindings>
+      <netTcpBinding>
+        <binding name="tcp_Unsecured" portSharingEnabled="true">
+          <security mode="None"/>
+        </binding>
+      </netTcpBinding>
+    </bindings>
+    <client>
+      <endpoint address="net.tcp://localhost:8080/PubSubAPi" binding="netTcpBinding" bindingConfiguration="tcp_Unsecured" contract="SenApi.ServicesContract.PubSubContract.IPubSubEventAPI" name="IPubSubEventAPI">
+        <identity>
+          <dns value="localhost"/>
+        </identity>
+      </endpoint>
+      <endpoint address="net.tcp://localhost:8080/ParallelPortAPI" binding="netTcpBinding" contract="SenApi.ServicesContract.ParallelPort.IPortServerContract" bindingConfiguration="tcp_Unsecured" name="IParallelPortAPI">
+        <identity>
+          <dns value="localhost"/>
+        </identity>
+      </endpoint>
+    </client>
+  </system.serviceModel>
+<startup><supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0"/></startup></configuration>

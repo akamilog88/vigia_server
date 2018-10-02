@@ -1,0 +1,8 @@
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\WCFDTMFDetectorService\bin\Debug\WCFDTMFDetectorService.dll.config
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\WCFDTMFDetectorService\bin\Debug\WCFDTMFDetectorService.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\WCFDTMFDetectorService\bin\Debug\WCFDTMFDetectorService.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\WCFDTMFDetectorService\bin\Debug\BaseSensorsContract.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\WCFDTMFDetectorService\bin\Debug\BaseSensorsContract.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\WCFDTMFDetectorService\obj\Debug\WCFDTMFDetectorService.csprojResolveAssemblyReference.cache
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\WCFDTMFDetectorService\obj\Debug\WCFDTMFDetectorService.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\WCFDTMFDetectorService\obj\Debug\WCFDTMFDetectorService.pdb

@@ -1,0 +1,7 @@
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\EventReciverServiceNew\bin\Debug\SenApi.ServicesContract.PubSubContract.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\EventReciverServiceNew\bin\Debug\SenApi.ServicesContract.PubSubContract.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\EventReciverServiceNew\obj\Debug\EventReciverServiceNew.csprojResolveAssemblyReference.cache
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\EventReciverServiceNew\bin\Debug\SenApi.Services.PubSubServices.EventReciverService.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\EventReciverServiceNew\bin\Debug\SenApi.Services.PubSubServices.EventReciverService.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\EventReciverServiceNew\obj\Debug\SenApi.Services.PubSubServices.EventReciverService.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\EventReciverServiceNew\obj\Debug\SenApi.Services.PubSubServices.EventReciverService.pdb

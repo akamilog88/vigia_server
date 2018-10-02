@@ -1,0 +1,16 @@
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\BaseSensorsContract\bin\Debug\BaseSensorsContract.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\BaseSensorsContract\bin\Debug\BaseSensorsContract.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\BaseSensorsContract\obj\Debug\BaseSensorsContract.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\BaseSensorsContract\obj\Debug\BaseSensorsContract.pdb
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\BaseSensorsContract\bin\Debug\BaseSensorsContract.dll
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\BaseSensorsContract\bin\Debug\BaseSensorsContract.pdb
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\BaseSensorsContract\obj\Debug\BaseSensorsContract.dll
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\BaseSensorsContract\obj\Debug\BaseSensorsContract.pdb
+E:\Cosas LPT\DiscoveryProxy\BaseSensorsContract\bin\Debug\BaseSensorsContract.dll
+E:\Cosas LPT\DiscoveryProxy\BaseSensorsContract\bin\Debug\BaseSensorsContract.pdb
+E:\Cosas LPT\DiscoveryProxy\BaseSensorsContract\obj\Debug\BaseSensorsContract.dll
+E:\Cosas LPT\DiscoveryProxy\BaseSensorsContract\obj\Debug\BaseSensorsContract.pdb
+E:\Cosas LPT\VIGIA_MSSQ\BaseSensorsContract\bin\Debug\BaseSensorsContract.dll
+E:\Cosas LPT\VIGIA_MSSQ\BaseSensorsContract\bin\Debug\BaseSensorsContract.pdb
+E:\Cosas LPT\VIGIA_MSSQ\BaseSensorsContract\obj\Debug\BaseSensorsContract.dll
+E:\Cosas LPT\VIGIA_MSSQ\BaseSensorsContract\obj\Debug\BaseSensorsContract.pdb

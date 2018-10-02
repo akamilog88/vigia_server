@@ -1,0 +1,130 @@
+C:\Users\espc-inf3.SS\Documents\Visual Studio 2012\Projects\IOParallelPortService\IOParallelPortService\bin\Debug\IOParallelPortService.exe.config
+C:\Users\espc-inf3.SS\Documents\Visual Studio 2012\Projects\IOParallelPortService\IOParallelPortService\bin\Debug\IOParallelPortService.exe
+C:\Users\espc-inf3.SS\Documents\Visual Studio 2012\Projects\IOParallelPortService\IOParallelPortService\bin\Debug\IOParallelPortService.pdb
+C:\Users\espc-inf3.SS\Documents\Visual Studio 2012\Projects\IOParallelPortService\IOParallelPortService\bin\Debug\WCFParallelPortService.dll
+C:\Users\espc-inf3.SS\Documents\Visual Studio 2012\Projects\IOParallelPortService\IOParallelPortService\bin\Debug\ParallelPortAPI.dll
+C:\Users\espc-inf3.SS\Documents\Visual Studio 2012\Projects\IOParallelPortService\IOParallelPortService\bin\Debug\WCFParallelPortService.pdb
+C:\Users\espc-inf3.SS\Documents\Visual Studio 2012\Projects\IOParallelPortService\IOParallelPortService\bin\Debug\ParallelPortAPI.pdb
+C:\Users\espc-inf3.SS\Documents\Visual Studio 2012\Projects\IOParallelPortService\IOParallelPortService\obj\Debug\WindowParallelPortService.csprojResolveAssemblyReference.cache
+C:\Users\espc-inf3.SS\Documents\Visual Studio 2012\Projects\IOParallelPortService\IOParallelPortService\obj\Debug\IOParallelPortService.ProjectInstaller.resources
+C:\Users\espc-inf3.SS\Documents\Visual Studio 2012\Projects\IOParallelPortService\IOParallelPortService\obj\Debug\WindowParallelPortService.csproj.GenerateResource.Cache
+C:\Users\espc-inf3.SS\Documents\Visual Studio 2012\Projects\IOParallelPortService\IOParallelPortService\obj\Debug\IOParallelPortService.exe
+C:\Users\espc-inf3.SS\Documents\Visual Studio 2012\Projects\IOParallelPortService\IOParallelPortService\obj\Debug\IOParallelPortService.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\IOParallelPortService\IOParallelPortService\obj\Debug\WindowParallelPortService.csprojResolveAssemblyReference.cache
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\IOParallelPortService\IOParallelPortService\obj\Debug\IOParallelPortService.ProjectInstaller.resources
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\IOParallelPortService\IOParallelPortService\obj\Debug\WindowParallelPortService.csproj.GenerateResource.Cache
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\IOParallelPortService\IOParallelPortService\obj\Debug\IOParallelPortService.exe
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\IOParallelPortService\IOParallelPortService\bin\Debug\IOParallelPortService.exe.config
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\IOParallelPortService\IOParallelPortService\bin\Debug\IOParallelPortService.exe
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\IOParallelPortService\IOParallelPortService\bin\Debug\IOParallelPortService.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\IOParallelPortService\IOParallelPortService\bin\Debug\DeviceServicesInterfaces.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\IOParallelPortService\IOParallelPortService\bin\Debug\WCFParallelPortService.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\IOParallelPortService\IOParallelPortService\bin\Debug\ParallelPortAPI.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\IOParallelPortService\IOParallelPortService\bin\Debug\DeviceServicesInterfaces.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\IOParallelPortService\IOParallelPortService\bin\Debug\WCFParallelPortService.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\IOParallelPortService\IOParallelPortService\bin\Debug\ParallelPortAPI.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\IOParallelPortService\IOParallelPortService\obj\Debug\IOParallelPortService.pdb
+G:\Cosas LPT\IOParallelPortService\IOParallelPortService\bin\Debug\IOParallelPortService.exe.config
+G:\Cosas LPT\IOParallelPortService\IOParallelPortService\bin\Debug\IOParallelPortService.exe
+G:\Cosas LPT\IOParallelPortService\IOParallelPortService\bin\Debug\IOParallelPortService.pdb
+G:\Cosas LPT\IOParallelPortService\IOParallelPortService\bin\Debug\DeviceServicesInterfaces.dll
+G:\Cosas LPT\IOParallelPortService\IOParallelPortService\bin\Debug\WCFParallelPortService.dll
+G:\Cosas LPT\IOParallelPortService\IOParallelPortService\bin\Debug\ParallelPortAPI.dll
+G:\Cosas LPT\IOParallelPortService\IOParallelPortService\bin\Debug\DeviceServicesInterfaces.pdb
+G:\Cosas LPT\IOParallelPortService\IOParallelPortService\bin\Debug\WCFParallelPortService.pdb
+G:\Cosas LPT\IOParallelPortService\IOParallelPortService\bin\Debug\ParallelPortAPI.pdb
+G:\Cosas LPT\IOParallelPortService\IOParallelPortService\obj\Debug\WindowParallelPortService.csprojResolveAssemblyReference.cache
+G:\Cosas LPT\IOParallelPortService\IOParallelPortService\obj\Debug\IOParallelPortService.ProjectInstaller.resources
+G:\Cosas LPT\IOParallelPortService\IOParallelPortService\obj\Debug\WindowParallelPortService.csproj.GenerateResource.Cache
+G:\Cosas LPT\IOParallelPortService\IOParallelPortService\obj\Debug\IOParallelPortService.exe
+G:\Cosas LPT\IOParallelPortService\IOParallelPortService\obj\Debug\IOParallelPortService.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\obj\Debug\WindowParallelPortService.csprojResolveAssemblyReference.cache
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\obj\Debug\IOParallelPortService.ProjectInstaller.resources
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\obj\Debug\WindowParallelPortService.csproj.GenerateResource.Cache
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\IOParallelPortService.exe.config
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\IOParallelPortService.exe
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\IOParallelPortService.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\BaseSensorsContract.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.Services.ParallelPort.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.ServicesContract.ParallelPort.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.ServicesContract.PubSubContract.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.SensorInterfaces.ParallelPort.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\BaseSensorsContract.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.Services.ParallelPort.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.ServicesContract.ParallelPort.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.ServicesContract.PubSubContract.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.SensorInterfaces.ParallelPort.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\obj\Debug\IOParallelPortService.exe
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\obj\Debug\IOParallelPortService.pdb
+F:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\IOParallelPortService.exe.config
+F:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\IOParallelPortService.exe
+F:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\IOParallelPortService.pdb
+F:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\BaseSensorsContract.dll
+F:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.Services.ParallelPort.dll
+F:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.ServicesContract.ParallelPort.dll
+F:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.ServicesContract.PubSubContract.dll
+F:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.SensorInterfaces.ParallelPort.dll
+F:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\BaseSensorsContract.pdb
+F:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.Services.ParallelPort.pdb
+F:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.ServicesContract.ParallelPort.pdb
+F:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.ServicesContract.PubSubContract.pdb
+F:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.SensorInterfaces.ParallelPort.pdb
+F:\Cosas LPT\DiscoveryProxy\IOParallelPortService\obj\Debug\WindowParallelPortService.csprojResolveAssemblyReference.cache
+F:\Cosas LPT\DiscoveryProxy\IOParallelPortService\obj\Debug\IOParallelPortService.ProjectInstaller.resources
+F:\Cosas LPT\DiscoveryProxy\IOParallelPortService\obj\Debug\WindowParallelPortService.csproj.GenerateResource.Cache
+F:\Cosas LPT\DiscoveryProxy\IOParallelPortService\obj\Debug\IOParallelPortService.exe
+F:\Cosas LPT\DiscoveryProxy\IOParallelPortService\obj\Debug\IOParallelPortService.pdb
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\IOParallelPortService.exe.config
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\IOParallelPortService.exe
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\IOParallelPortService.pdb
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\BaseSensorsContract.dll
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.Services.ParallelPort.dll
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.ServicesContract.ParallelPort.dll
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.ServicesContract.PubSubContract.dll
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.SensorInterfaces.ParallelPort.dll
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\BaseSensorsContract.pdb
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.Services.ParallelPort.pdb
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.ServicesContract.ParallelPort.pdb
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.ServicesContract.PubSubContract.pdb
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.SensorInterfaces.ParallelPort.pdb
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\obj\Debug\WindowParallelPortService.csprojResolveAssemblyReference.cache
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\obj\Debug\IOParallelPortService.ProjectInstaller.resources
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\obj\Debug\WindowParallelPortService.csproj.GenerateResource.Cache
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\obj\Debug\IOParallelPortService.exe
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\IOParallelPortService\obj\Debug\IOParallelPortService.pdb
+E:\Cosas LPT\DiscoveryProxy\IOParallelPortService\obj\Debug\WindowParallelPortService.csprojResolveAssemblyReference.cache
+E:\Cosas LPT\DiscoveryProxy\IOParallelPortService\obj\Debug\IOParallelPortService.ProjectInstaller.resources
+E:\Cosas LPT\DiscoveryProxy\IOParallelPortService\obj\Debug\WindowParallelPortService.csproj.GenerateResource.Cache
+E:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\IOParallelPortService.exe.config
+E:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\IOParallelPortService.exe
+E:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\IOParallelPortService.pdb
+E:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\BaseSensorsContract.dll
+E:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.Services.ParallelPort.dll
+E:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.ServicesContract.ParallelPort.dll
+E:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.ServicesContract.PubSubContract.dll
+E:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.SensorInterfaces.ParallelPort.dll
+E:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\BaseSensorsContract.pdb
+E:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.ServicesContract.ParallelPort.pdb
+E:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.Services.ParallelPort.pdb
+E:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.ServicesContract.PubSubContract.pdb
+E:\Cosas LPT\DiscoveryProxy\IOParallelPortService\bin\Debug\SenApi.SensorInterfaces.ParallelPort.pdb
+E:\Cosas LPT\DiscoveryProxy\IOParallelPortService\obj\Debug\IOParallelPortService.exe
+E:\Cosas LPT\DiscoveryProxy\IOParallelPortService\obj\Debug\IOParallelPortService.pdb
+E:\Cosas LPT\VIGIA_MSSQ\IOParallelPortService\bin\Debug\IOParallelPortService.exe.config
+E:\Cosas LPT\VIGIA_MSSQ\IOParallelPortService\bin\Debug\IOParallelPortService.exe
+E:\Cosas LPT\VIGIA_MSSQ\IOParallelPortService\bin\Debug\IOParallelPortService.pdb
+E:\Cosas LPT\VIGIA_MSSQ\IOParallelPortService\bin\Debug\BaseSensorsContract.dll
+E:\Cosas LPT\VIGIA_MSSQ\IOParallelPortService\bin\Debug\SenApi.Services.ParallelPort.dll
+E:\Cosas LPT\VIGIA_MSSQ\IOParallelPortService\bin\Debug\SenApi.ServicesContract.ParallelPort.dll
+E:\Cosas LPT\VIGIA_MSSQ\IOParallelPortService\bin\Debug\SenApi.ServicesContract.PubSubContract.dll
+E:\Cosas LPT\VIGIA_MSSQ\IOParallelPortService\bin\Debug\SenApi.SensorInterfaces.ParallelPort.dll
+E:\Cosas LPT\VIGIA_MSSQ\IOParallelPortService\bin\Debug\BaseSensorsContract.pdb
+E:\Cosas LPT\VIGIA_MSSQ\IOParallelPortService\bin\Debug\SenApi.ServicesContract.ParallelPort.pdb
+E:\Cosas LPT\VIGIA_MSSQ\IOParallelPortService\bin\Debug\SenApi.Services.ParallelPort.pdb
+E:\Cosas LPT\VIGIA_MSSQ\IOParallelPortService\bin\Debug\SenApi.ServicesContract.PubSubContract.pdb
+E:\Cosas LPT\VIGIA_MSSQ\IOParallelPortService\bin\Debug\SenApi.SensorInterfaces.ParallelPort.pdb
+E:\Cosas LPT\VIGIA_MSSQ\IOParallelPortService\obj\Debug\WindowParallelPortService.csprojResolveAssemblyReference.cache
+E:\Cosas LPT\VIGIA_MSSQ\IOParallelPortService\obj\Debug\IOParallelPortService.ProjectInstaller.resources
+E:\Cosas LPT\VIGIA_MSSQ\IOParallelPortService\obj\Debug\WindowParallelPortService.csproj.GenerateResource.Cache
+E:\Cosas LPT\VIGIA_MSSQ\IOParallelPortService\obj\Debug\IOParallelPortService.exe
+E:\Cosas LPT\VIGIA_MSSQ\IOParallelPortService\obj\Debug\IOParallelPortService.pdb

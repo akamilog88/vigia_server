@@ -1,0 +1,10 @@
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\WCFParallelPortServiceNew\obj\Debug\WCFParallelPortServiceNew.csprojResolveAssemblyReference.cache
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\WCFParallelPortServiceNew\bin\Debug\SenApi.Services.ParallelPort.dll.config
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\WCFParallelPortServiceNew\bin\Debug\SenApi.Services.ParallelPort.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\WCFParallelPortServiceNew\bin\Debug\SenApi.Services.ParallelPort.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\WCFParallelPortServiceNew\bin\Debug\SenApi.SensorInterfaces.ParallelPort.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\WCFParallelPortServiceNew\bin\Debug\SenApi.ServicesContract.ParallelPort.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\WCFParallelPortServiceNew\bin\Debug\SenApi.SensorInterfaces.ParallelPort.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\WCFParallelPortServiceNew\bin\Debug\SenApi.ServicesContract.ParallelPort.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\WCFParallelPortServiceNew\obj\Debug\SenApi.Services.ParallelPort.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\WCFParallelPortServiceNew\obj\Debug\SenApi.Services.ParallelPort.pdb

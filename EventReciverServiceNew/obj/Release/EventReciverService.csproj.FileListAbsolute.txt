@@ -1,0 +1,16 @@
+E:\Cosas LPT\DiscoveryProxy\EventReciverServiceNew\bin\Release\SenApi.Services.PubSubServices.EventReciverService.dll.config
+E:\Cosas LPT\DiscoveryProxy\EventReciverServiceNew\bin\Release\SenApi.Services.PubSubServices.EventReciverService.dll
+E:\Cosas LPT\DiscoveryProxy\EventReciverServiceNew\bin\Release\SenApi.Services.PubSubServices.EventReciverService.pdb
+E:\Cosas LPT\DiscoveryProxy\EventReciverServiceNew\bin\Release\SenApi.ServicesContract.PubSubContract.dll
+E:\Cosas LPT\DiscoveryProxy\EventReciverServiceNew\bin\Release\SenApi.ServicesContract.PubSubContract.pdb
+E:\Cosas LPT\DiscoveryProxy\EventReciverServiceNew\obj\Release\EventReciverService.csprojResolveAssemblyReference.cache
+E:\Cosas LPT\DiscoveryProxy\EventReciverServiceNew\obj\Release\SenApi.Services.PubSubServices.EventReciverService.dll
+E:\Cosas LPT\DiscoveryProxy\EventReciverServiceNew\obj\Release\SenApi.Services.PubSubServices.EventReciverService.pdb
+E:\Cosas LPT\VIGIA_MSSQ\EventReciverServiceNew\bin\Release\SenApi.Services.PubSubServices.EventReciverService.dll.config
+E:\Cosas LPT\VIGIA_MSSQ\EventReciverServiceNew\bin\Release\SenApi.Services.PubSubServices.EventReciverService.dll
+E:\Cosas LPT\VIGIA_MSSQ\EventReciverServiceNew\bin\Release\SenApi.Services.PubSubServices.EventReciverService.pdb
+E:\Cosas LPT\VIGIA_MSSQ\EventReciverServiceNew\bin\Release\SenApi.ServicesContract.PubSubContract.dll
+E:\Cosas LPT\VIGIA_MSSQ\EventReciverServiceNew\bin\Release\SenApi.ServicesContract.PubSubContract.pdb
+E:\Cosas LPT\VIGIA_MSSQ\EventReciverServiceNew\obj\Release\EventReciverService.csprojResolveAssemblyReference.cache
+E:\Cosas LPT\VIGIA_MSSQ\EventReciverServiceNew\obj\Release\SenApi.Services.PubSubServices.EventReciverService.dll
+E:\Cosas LPT\VIGIA_MSSQ\EventReciverServiceNew\obj\Release\SenApi.Services.PubSubServices.EventReciverService.pdb

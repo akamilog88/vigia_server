@@ -1,0 +1,5 @@
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\WCFNetworkTesting\bin\Debug\WCFNetworkTesting.dll.config
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\WCFNetworkTesting\bin\Debug\WCFNetworkTesting.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\WCFNetworkTesting\bin\Debug\WCFNetworkTesting.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\WCFNetworkTesting\obj\Debug\WCFNetworkTesting.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\WCFNetworkTesting\obj\Debug\WCFNetworkTesting.pdb

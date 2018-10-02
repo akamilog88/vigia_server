@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Devices>
+  <DeviceGroup  code="net.tcp://172.23.1.117:8080" dtmf="false" pport="true" dtmf_address="net.tcp://172.23.1.117:8080/DTMFCtrl" pport_address="net.tcp://172.23.1.117:8080/ParallelPortAPI" name="5292-3" desciption="Maquina Desarrolo" local="true">
+	<Device code="1" type="DTMF"  name="Local DTMF"   message="Alarma! acceso en Local DTMF" enabled="true" active="true" />
+	<Device code="port:889;mask:8;rest:0"   type="PSC"  name="Local 1"   message="Alarma! acceso en Local 1"  enabled="true" active="true" />
+	<Device code="port:889;mask:16;rest:0"  type="PSC"  name="Local 2"   message="Alarma! acceso en Local 2"  enabled="true" active="true" />
+	<Device code="port:889;mask:32;rest:0"  type="PSC"  name="Local 3"   message="Alarma! acceso en Local 3"  enabled="true" active="true" />
+	<Device code="port:889;mask:64;rest:0"  type="PSC"  name="Local 4"   message="Alarma! acceso en Local 4"  enabled="true" active="true" />
+	<Device code="port:889;mask:128;rest:1" type="PSC"  name="Local 5"   message="Alarma! acceso en Local 5"  enabled="true" active="true" />
+  </DeviceGroup> 
+</Devices>

@@ -1,0 +1,34 @@
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Release\DtmfCtrlServiceHost.exe.config
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Release\DtmfCtrlServiceHost.exe
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Release\DtmfCtrlServiceHost.pdb
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Release\BaseSensorsContract.dll
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Release\DTMF Detector.exe
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Release\SenApi.ServicesContract.PubSubContract.dll
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Release\WCFDTMFDetectorService.dll
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Release\NAudio.dll
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Release\DTMF Detector.pdb
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Release\SenApi.ServicesContract.PubSubContract.pdb
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Release\WCFDTMFDetectorService.pdb
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Release\BaseSensorsContract.pdb
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Release\NAudio.pdb
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Release\NAudio.xml
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\obj\Release\DtmfCtrlServiceHost.csprojResolveAssemblyReference.cache
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\obj\Release\DtmfCtrlServiceHost.exe
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\obj\Release\DtmfCtrlServiceHost.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Release\DtmfCtrlServiceHost.exe.config
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Release\DtmfCtrlServiceHost.exe
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Release\DtmfCtrlServiceHost.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Release\BaseSensorsContract.dll
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Release\DTMF Detector.exe
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Release\SenApi.ServicesContract.PubSubContract.dll
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Release\WCFDTMFDetectorService.dll
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Release\NAudio.dll
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Release\DTMF Detector.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Release\SenApi.ServicesContract.PubSubContract.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Release\WCFDTMFDetectorService.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Release\BaseSensorsContract.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Release\NAudio.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Release\NAudio.xml
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\obj\Release\DtmfCtrlServiceHost.csprojResolveAssemblyReference.cache
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\obj\Release\DtmfCtrlServiceHost.exe
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\obj\Release\DtmfCtrlServiceHost.pdb

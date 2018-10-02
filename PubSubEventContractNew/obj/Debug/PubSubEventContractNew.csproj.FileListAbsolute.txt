@@ -1,0 +1,4 @@
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\PubSubEventContractNew\bin\Debug\SenApi.ServicesContract.PubSubContract.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\PubSubEventContractNew\bin\Debug\SenApi.ServicesContract.PubSubContract.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\PubSubEventContractNew\obj\Debug\SenApi.ServicesContract.PubSubContract.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\PubSubEventContractNew\obj\Debug\SenApi.ServicesContract.PubSubContract.pdb

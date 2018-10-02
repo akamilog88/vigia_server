@@ -1,0 +1,5 @@
+c:\users\espc-inf3.ss\documents\visual studio 2012\Projects\IOParallelPortService\IOParallelPortService\bin\Debug\IOParallelPortService.exe
+c:\users\espc-inf3.ss\documents\visual studio 2012\Projects\IOParallelPortService\IOParallelPortService\bin\Debug\IOParallelPortService.pdb
+c:\users\espc-inf3.ss\documents\visual studio 2012\Projects\IOParallelPortService\IOParallelPortService\obj\Debug\IOParallelPortService.csprojResolveAssemblyReference.cache
+c:\users\espc-inf3.ss\documents\visual studio 2012\Projects\IOParallelPortService\IOParallelPortService\obj\Debug\IOParallelPortService.exe
+c:\users\espc-inf3.ss\documents\visual studio 2012\Projects\IOParallelPortService\IOParallelPortService\obj\Debug\IOParallelPortService.pdb

@@ -1,0 +1,16 @@
+E:\Cosas LPT\DiscoveryProxy\PubSubServiceNew\bin\Release\SenApi.Services.PubSubServices.dll.config
+E:\Cosas LPT\DiscoveryProxy\PubSubServiceNew\bin\Release\SenApi.Services.PubSubServices.dll
+E:\Cosas LPT\DiscoveryProxy\PubSubServiceNew\bin\Release\SenApi.Services.PubSubServices.pdb
+E:\Cosas LPT\DiscoveryProxy\PubSubServiceNew\bin\Release\SenApi.ServicesContract.PubSubContract.dll
+E:\Cosas LPT\DiscoveryProxy\PubSubServiceNew\bin\Release\SenApi.ServicesContract.PubSubContract.pdb
+E:\Cosas LPT\DiscoveryProxy\PubSubServiceNew\obj\Release\PubSubService.csprojResolveAssemblyReference.cache
+E:\Cosas LPT\DiscoveryProxy\PubSubServiceNew\obj\Release\SenApi.Services.PubSubServices.dll
+E:\Cosas LPT\DiscoveryProxy\PubSubServiceNew\obj\Release\SenApi.Services.PubSubServices.pdb
+E:\Cosas LPT\VIGIA_MSSQ\PubSubServiceNew\bin\Release\SenApi.Services.PubSubServices.dll.config
+E:\Cosas LPT\VIGIA_MSSQ\PubSubServiceNew\bin\Release\SenApi.Services.PubSubServices.dll
+E:\Cosas LPT\VIGIA_MSSQ\PubSubServiceNew\bin\Release\SenApi.Services.PubSubServices.pdb
+E:\Cosas LPT\VIGIA_MSSQ\PubSubServiceNew\bin\Release\SenApi.ServicesContract.PubSubContract.dll
+E:\Cosas LPT\VIGIA_MSSQ\PubSubServiceNew\bin\Release\SenApi.ServicesContract.PubSubContract.pdb
+E:\Cosas LPT\VIGIA_MSSQ\PubSubServiceNew\obj\Release\PubSubService.csprojResolveAssemblyReference.cache
+E:\Cosas LPT\VIGIA_MSSQ\PubSubServiceNew\obj\Release\SenApi.Services.PubSubServices.dll
+E:\Cosas LPT\VIGIA_MSSQ\PubSubServiceNew\obj\Release\SenApi.Services.PubSubServices.pdb

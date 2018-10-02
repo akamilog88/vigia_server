@@ -1,0 +1,16 @@
+C:\Users\Camilo\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector\bin\Debug\DTMF Detector.exe
+C:\Users\Camilo\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector\bin\Debug\DTMF Detector.pdb
+C:\Users\Camilo\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector\bin\Debug\NAudio.dll
+C:\Users\Camilo\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector\bin\Debug\NAudio.pdb
+C:\Users\Camilo\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector\bin\Debug\NAudio.xml
+C:\Users\Camilo\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector\obj\Debug\DTMF Detector.csprojResolveAssemblyReference.cache
+C:\Users\Camilo\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector\obj\Debug\DTMF Detector.exe
+C:\Users\Camilo\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector\obj\Debug\DTMF Detector.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector\bin\Debug\DTMF Detector.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector\bin\Debug\NAudio.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector\bin\Debug\NAudio.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector\bin\Debug\NAudio.xml
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector\obj\Debug\DTMF Detector.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector\obj\Debug\DTMF Detector.csprojResolveAssemblyReference.cache
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector\bin\Debug\DTMF Detector.exe
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector\obj\Debug\DTMF Detector.exe

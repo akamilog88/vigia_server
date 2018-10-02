@@ -1,0 +1,88 @@
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\DtmfCtrlServiceHost.exe.config
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\DtmfCtrlServiceHost.exe
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\DtmfCtrlServiceHost.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\BaseSensorsContract.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\DTMF Detector.exe
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\SenApi.ServicesContract.PubSubContract.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\WCFDTMFDetectorService.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\NAudio.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\DTMF Detector.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\SenApi.ServicesContract.PubSubContract.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\WCFDTMFDetectorService.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\BaseSensorsContract.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\NAudio.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\NAudio.xml
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\obj\Debug\DtmfCtrlServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\obj\Debug\DtmfCtrlServiceHost.exe
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\obj\Debug\DtmfCtrlServiceHost.pdb
+F:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\DtmfCtrlServiceHost.exe.config
+F:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\DtmfCtrlServiceHost.exe
+F:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\DtmfCtrlServiceHost.pdb
+F:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\BaseSensorsContract.dll
+F:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\DTMF Detector.exe
+F:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\SenApi.ServicesContract.PubSubContract.dll
+F:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\WCFDTMFDetectorService.dll
+F:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\NAudio.dll
+F:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\DTMF Detector.pdb
+F:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\SenApi.ServicesContract.PubSubContract.pdb
+F:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\WCFDTMFDetectorService.pdb
+F:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\BaseSensorsContract.pdb
+F:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\NAudio.pdb
+F:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\NAudio.xml
+F:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\obj\Debug\DtmfCtrlServiceHost.csprojResolveAssemblyReference.cache
+F:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\obj\Debug\DtmfCtrlServiceHost.exe
+F:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\obj\Debug\DtmfCtrlServiceHost.pdb
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\DtmfCtrlServiceHost.exe.config
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\DtmfCtrlServiceHost.exe
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\DtmfCtrlServiceHost.pdb
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\BaseSensorsContract.dll
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\DTMF Detector.exe
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\SenApi.ServicesContract.PubSubContract.dll
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\WCFDTMFDetectorService.dll
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\NAudio.dll
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\DTMF Detector.pdb
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\SenApi.ServicesContract.PubSubContract.pdb
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\WCFDTMFDetectorService.pdb
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\BaseSensorsContract.pdb
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\NAudio.pdb
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\NAudio.xml
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\obj\Debug\DtmfCtrlServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\obj\Debug\DtmfCtrlServiceHost.exe
+C:\Users\espc-inf3\Desktop\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\obj\Debug\DtmfCtrlServiceHost.pdb
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\obj\Debug\DtmfCtrlServiceHost.csprojResolveAssemblyReference.cache
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\DtmfCtrlServiceHost.exe.config
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\DtmfCtrlServiceHost.exe
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\DtmfCtrlServiceHost.pdb
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\BaseSensorsContract.dll
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\DTMF Detector.exe
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\SenApi.ServicesContract.PubSubContract.dll
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\WCFDTMFDetectorService.dll
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\NAudio.dll
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\DTMF Detector.pdb
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\SenApi.ServicesContract.PubSubContract.pdb
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\WCFDTMFDetectorService.pdb
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\BaseSensorsContract.pdb
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\NAudio.pdb
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\bin\Debug\NAudio.xml
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\obj\Debug\DtmfCtrlServiceHost.exe
+E:\Cosas LPT\DiscoveryProxy\DtmfCtrlServiceHost\obj\Debug\DtmfCtrlServiceHost.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Debug\DtmfCtrlServiceHost.exe.config
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Debug\DtmfCtrlServiceHost.exe
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Debug\DtmfCtrlServiceHost.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Debug\BaseSensorsContract.dll
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Debug\DTMF Detector.exe
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Debug\SenApi.ServicesContract.PubSubContract.dll
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Debug\WCFDTMFDetectorService.dll
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Debug\NAudio.dll
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Debug\DTMF Detector.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Debug\SenApi.ServicesContract.PubSubContract.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Debug\WCFDTMFDetectorService.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Debug\BaseSensorsContract.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Debug\NAudio.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Debug\NAudio.xml
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\obj\Debug\DtmfCtrlServiceHost.csprojResolveAssemblyReference.cache
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\obj\Debug\DtmfCtrlServiceHost.exe
+E:\Cosas LPT\VIGIA_MSSQ\DtmfCtrlServiceHost\obj\Debug\DtmfCtrlServiceHost.pdb
+H:\VIGIA_MSSQ\DtmfCtrlServiceHost\bin\Debug\DtmfCtrlServiceHost.exe.config
+H:\VIGIA_MSSQ\DtmfCtrlServiceHost\obj\Debug\DtmfCtrlServiceHost.exe
+H:\VIGIA_MSSQ\DtmfCtrlServiceHost\obj\Debug\DtmfCtrlServiceHost.pdb

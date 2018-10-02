@@ -1,0 +1,13 @@
+﻿Installing assembly 'E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Release\DTMF Detector Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Release\DTMF Detector Service.InstallLog
+   assemblypath = E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Release\DTMF Detector Service.exe
+Installing service WDTMFDetector...
+Service WDTMFDetector has been successfully installed.
+Creating EventLog source WDTMFDetector in log Application...
+Committing assembly 'E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Release\DTMF Detector Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Release\DTMF Detector Service.InstallLog
+   assemblypath = E:\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Release\DTMF Detector Service.exe

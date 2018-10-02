@@ -1,0 +1,10 @@
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\AlarmaDetector\bin\Debug\AlarmaDetector.exe.config
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\AlarmaDetector\bin\Debug\AlarmaDetector.exe
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\AlarmaDetector\bin\Debug\AlarmaDetector.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\AlarmaDetector\bin\Debug\SenApi.Services.PubSubServices.EventReciverService.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\AlarmaDetector\bin\Debug\SenApi.ServicesContract.PubSubContract.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\AlarmaDetector\bin\Debug\SenApi.Services.PubSubServices.EventReciverService.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\AlarmaDetector\bin\Debug\SenApi.ServicesContract.PubSubContract.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\AlarmaDetector\obj\Debug\AlarmaDetector.csprojResolveAssemblyReference.cache
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\AlarmaDetector\obj\Debug\AlarmaDetector.exe
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\AlarmaDetector\obj\Debug\AlarmaDetector.pdb

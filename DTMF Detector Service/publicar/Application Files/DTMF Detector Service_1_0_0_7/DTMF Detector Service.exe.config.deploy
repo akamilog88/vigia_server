@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <!-- ESTA PROPIEDAD ES OBLIGATORIA EN LOS SERVICOS DE DETECCION/PUBLICACION DE LOS DISPOSITIVOS Y REFERENCIA EL ENDPOINT DEL SERVICIO DE CONTROL DEL DISPOSITIVO EN CUESTION-->
+    <add key="service_address" value="net.tcp://localhost:9000/ReciverClientService/"/>
+  </appSettings>
+  <system.web>
+    <compilation debug="true" />
+  </system.web>
+  <!-- Al implementar el proyecto de la biblioteca de servicios, el contenido del archivo de configuración se debe agregar al archivo 
+  app.config del host. La configuración del sistema no admite archivos de configuración en las bibliotecas. -->
+  <system.serviceModel>
+    <!--<services>
+      <service name="SenApi.Services.NetworkTestingService.NetworkTestingService">
+        <host>
+          <baseAddresses>
+            <add baseAddress = "http://localhost:80/" />
+          </baseAddresses>
+        </host>
+        <endpoint address="" binding="basicHttpBinding" contract="SenApi.ServicesContract.NetworkTesting.INetworkTesting" bindingConfiguration="http_Unsecured">
+        </endpoint>
+      </service>
+    </services>
+    -->
+
+    <bindings>
+      <!--<basicHttpBinding >
+        <binding name="http_Unsecured">
+          <security mode="None">
+          </security>
+        </binding>
+      </basicHttpBinding>-->
+      <netTcpBinding>
+        <binding name="tcp_Unsecured" portSharingEnabled="true">          
+          <security mode="None" />
+        </binding>
+      </netTcpBinding>
+    </bindings>
+    <client>
+      <endpoint address="net.tcp://maq444:8080/PubSubAPi" binding="netTcpBinding"
+          bindingConfiguration="tcp_Unsecured" contract="SenApi.ServicesContract.PubSubContract.IPubSubEventAPI"
+          name="IPubSubEventAPI">
+      </endpoint>
+    </client>
+  </system.serviceModel>
+
+</configuration>

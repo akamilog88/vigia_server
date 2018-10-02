@@ -1,0 +1,26 @@
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Release\DtmfDetector.exe.config
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Release\DtmfDetector.exe
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Release\DtmfDetector.pdb
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Release\DTMF Detector.exe
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Release\SenApi.ServicesContract.PubSubContract.dll
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Release\NAudio.dll
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Release\DTMF Detector.pdb
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Release\SenApi.ServicesContract.PubSubContract.pdb
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Release\NAudio.pdb
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\bin\Release\NAudio.xml
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\obj\Release\DtmfDetector.csprojResolveAssemblyReference.cache
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\obj\Release\DtmfDetector.exe
+E:\Cosas LPT\DiscoveryProxy\DtmfDetector\obj\Release\DtmfDetector.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\bin\Release\DtmfDetector.exe.config
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\bin\Release\DtmfDetector.exe
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\bin\Release\DtmfDetector.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\bin\Release\DTMF Detector.exe
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\bin\Release\SenApi.ServicesContract.PubSubContract.dll
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\bin\Release\NAudio.dll
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\bin\Release\DTMF Detector.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\bin\Release\SenApi.ServicesContract.PubSubContract.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\bin\Release\NAudio.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\bin\Release\NAudio.xml
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\obj\Release\DtmfDetector.csprojResolveAssemblyReference.cache
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\obj\Release\DtmfDetector.exe
+E:\Cosas LPT\VIGIA_MSSQ\DtmfDetector\obj\Release\DtmfDetector.pdb

@@ -1,0 +1,8 @@
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DiscoServiceNew\bin\Debug\SenApi.Services.CalculatorExample.dll.config
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DiscoServiceNew\bin\Debug\SenApi.Services.CalculatorExample.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DiscoServiceNew\bin\Debug\SenApi.Services.CalculatorExample.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DiscoServiceNew\bin\Debug\SenApi.ServicesContract.PubSubContract.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DiscoServiceNew\bin\Debug\SenApi.ServicesContract.PubSubContract.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DiscoServiceNew\obj\Debug\DiscoServiceNew.csprojResolveAssemblyReference.cache
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DiscoServiceNew\obj\Debug\SenApi.Services.CalculatorExample.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DiscoServiceNew\obj\Debug\SenApi.Services.CalculatorExample.pdb

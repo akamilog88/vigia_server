@@ -1,0 +1,8 @@
+E:\Cosas LPT\DiscoveryProxy\BaseSensorsContract\bin\Release\BaseSensorsContract.dll
+E:\Cosas LPT\DiscoveryProxy\BaseSensorsContract\bin\Release\BaseSensorsContract.pdb
+E:\Cosas LPT\DiscoveryProxy\BaseSensorsContract\obj\Release\BaseSensorsContract.dll
+E:\Cosas LPT\DiscoveryProxy\BaseSensorsContract\obj\Release\BaseSensorsContract.pdb
+E:\Cosas LPT\VIGIA_MSSQ\BaseSensorsContract\bin\Release\BaseSensorsContract.dll
+E:\Cosas LPT\VIGIA_MSSQ\BaseSensorsContract\bin\Release\BaseSensorsContract.pdb
+E:\Cosas LPT\VIGIA_MSSQ\BaseSensorsContract\obj\Release\BaseSensorsContract.dll
+E:\Cosas LPT\VIGIA_MSSQ\BaseSensorsContract\obj\Release\BaseSensorsContract.pdb

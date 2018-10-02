@@ -1,0 +1,8 @@
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\PubSubServiceNew\obj\Debug\PubSubServiceNew.csprojResolveAssemblyReference.cache
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\PubSubServiceNew\bin\Debug\SenApi.ServicesContract.PubSubContract.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\PubSubServiceNew\bin\Debug\SenApi.ServicesContract.PubSubContract.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\PubSubServiceNew\bin\Debug\SenApi.Services.PubSubServices.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\PubSubServiceNew\obj\Debug\SenApi.Services.PubSubServices.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\PubSubServiceNew\bin\Debug\SenApi.Services.PubSubServices.dll.config
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\PubSubServiceNew\bin\Debug\SenApi.Services.PubSubServices.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\PubSubServiceNew\obj\Debug\SenApi.Services.PubSubServices.dll

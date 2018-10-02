@@ -1,0 +1,17 @@
+E:\Cosas LPT\DiscoveryProxy\WCFDTMFDetectorService\bin\Release\WCFDTMFDetectorService.dll.config
+E:\Cosas LPT\DiscoveryProxy\WCFDTMFDetectorService\bin\Release\WCFDTMFDetectorService.dll
+E:\Cosas LPT\DiscoveryProxy\WCFDTMFDetectorService\bin\Release\WCFDTMFDetectorService.pdb
+E:\Cosas LPT\DiscoveryProxy\WCFDTMFDetectorService\bin\Release\BaseSensorsContract.dll
+E:\Cosas LPT\DiscoveryProxy\WCFDTMFDetectorService\bin\Release\SenApi.ServicesContract.ParallelPort.dll
+E:\Cosas LPT\DiscoveryProxy\WCFDTMFDetectorService\bin\Release\BaseSensorsContract.pdb
+E:\Cosas LPT\DiscoveryProxy\WCFDTMFDetectorService\bin\Release\SenApi.ServicesContract.ParallelPort.pdb
+E:\Cosas LPT\DiscoveryProxy\WCFDTMFDetectorService\obj\Release\WCFDTMFServiceCtrl.csprojResolveAssemblyReference.cache
+E:\Cosas LPT\DiscoveryProxy\WCFDTMFDetectorService\obj\Release\WCFDTMFDetectorService.dll
+E:\Cosas LPT\DiscoveryProxy\WCFDTMFDetectorService\obj\Release\WCFDTMFDetectorService.pdb
+E:\Cosas LPT\VIGIA_MSSQ\WCFDTMFDetectorService\bin\Release\WCFDTMFDetectorService.dll.config
+E:\Cosas LPT\VIGIA_MSSQ\WCFDTMFDetectorService\bin\Release\WCFDTMFDetectorService.dll
+E:\Cosas LPT\VIGIA_MSSQ\WCFDTMFDetectorService\bin\Release\WCFDTMFDetectorService.pdb
+E:\Cosas LPT\VIGIA_MSSQ\WCFDTMFDetectorService\bin\Release\BaseSensorsContract.dll
+E:\Cosas LPT\VIGIA_MSSQ\WCFDTMFDetectorService\bin\Release\BaseSensorsContract.pdb
+E:\Cosas LPT\VIGIA_MSSQ\WCFDTMFDetectorService\obj\Release\WCFDTMFDetectorService.dll
+E:\Cosas LPT\VIGIA_MSSQ\WCFDTMFDetectorService\obj\Release\WCFDTMFDetectorService.pdb

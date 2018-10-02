@@ -1,0 +1,13 @@
+﻿Installing assembly 'E:\Cosas LPT\DiscoveryProxy\WPubSubService\bin\Release\WPubSubService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Cosas LPT\DiscoveryProxy\WPubSubService\bin\Release\WPubSubService.InstallLog
+   assemblypath = E:\Cosas LPT\DiscoveryProxy\WPubSubService\bin\Release\WPubSubService.exe
+Installing service WPubSubService...
+Service WPubSubService has been successfully installed.
+Creating EventLog source WPubSubService in log Application...
+Committing assembly 'E:\Cosas LPT\DiscoveryProxy\WPubSubService\bin\Release\WPubSubService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Cosas LPT\DiscoveryProxy\WPubSubService\bin\Release\WPubSubService.InstallLog
+   assemblypath = E:\Cosas LPT\DiscoveryProxy\WPubSubService\bin\Release\WPubSubService.exe

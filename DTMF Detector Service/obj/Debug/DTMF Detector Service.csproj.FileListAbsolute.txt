@@ -1,0 +1,15 @@
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Debug\DTMF Detector Service.exe.config
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Debug\DTMF Detector Service.exe
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Debug\DTMF Detector Service.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Debug\DTMF Detector.exe
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Debug\SenApi.ServicesContract.PubSubContract.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Debug\NAudio.dll
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Debug\DTMF Detector.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Debug\SenApi.ServicesContract.PubSubContract.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Debug\NAudio.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector Service\bin\Debug\NAudio.xml
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector Service\obj\Debug\DTMF Detector Service.csprojResolveAssemblyReference.cache
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector Service\obj\Debug\DTMF Detector Service.exe
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector Service\obj\Debug\DTMF Detector Service.pdb
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector Service\obj\Debug\DTMF_Detector_Service.ProjectInstaller.resources
+C:\Users\espc-inf3.SS\Desktop\Cosas LPT\DiscoveryProxy\DTMF Detector Service\obj\Debug\DTMF Detector Service.csproj.GenerateResource.Cache

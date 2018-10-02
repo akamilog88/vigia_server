@@ -1,0 +1,16 @@
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector\bin\Release\DTMF Detector.exe
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector\bin\Release\DTMF Detector.pdb
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector\bin\Release\NAudio.dll
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector\bin\Release\NAudio.pdb
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector\bin\Release\NAudio.xml
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector\obj\Release\DTMF Detector.csprojResolveAssemblyReference.cache
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector\obj\Release\DTMF Detector.exe
+E:\Cosas LPT\DiscoveryProxy\DTMF Detector\obj\Release\DTMF Detector.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector\bin\Release\DTMF Detector.exe
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector\bin\Release\DTMF Detector.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector\bin\Release\NAudio.dll
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector\bin\Release\NAudio.pdb
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector\bin\Release\NAudio.xml
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector\obj\Release\DTMF Detector.csprojResolveAssemblyReference.cache
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector\obj\Release\DTMF Detector.exe
+E:\Cosas LPT\VIGIA_MSSQ\DTMF Detector\obj\Release\DTMF Detector.pdb
